@@ -1,5 +1,4 @@
-to run the script you need to follow the instructions below.
-
+This is a Maven Project. There are multiple way to run the script. Below is one of them
 Prerequisites and Setup:
 1. Install Java Development Kit (JDK): Ensure you have a compatible JDK installed on your system.
 2. Install VS Code
